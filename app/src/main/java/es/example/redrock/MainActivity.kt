@@ -11,7 +11,9 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
-import es.example.redrock.databinding.ActivityMainBinding
+import com.uca.redrock.R
+import com.uca.redrock.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity() {
 
